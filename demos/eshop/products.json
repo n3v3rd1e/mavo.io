@@ -1,6 +1,9 @@
 {
 	"product": [
-		{},
+		{
+			"name": "dsg",
+			"amount": "45"
+		},
 		{
 			"name": "Did You Medicate The Dog?",
 			"amount": 10,
